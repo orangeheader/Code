@@ -1,0 +1,23 @@
+c:\users\kappa\documents\visual studio 2012\Projects\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe.config
+c:\users\kappa\documents\visual studio 2012\Projects\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe
+c:\users\kappa\documents\visual studio 2012\Projects\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.pdb
+c:\users\kappa\documents\visual studio 2012\Projects\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\ZipForge.dll
+c:\users\kappa\documents\visual studio 2012\Projects\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\ZipForge.xml
+c:\users\kappa\documents\visual studio 2012\Projects\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csprojResolveAssemblyReference.cache
+c:\users\kappa\documents\visual studio 2012\Projects\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Form1.resources
+c:\users\kappa\documents\visual studio 2012\Projects\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Properties.Resources.resources
+c:\users\kappa\documents\visual studio 2012\Projects\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csproj.GenerateResource.Cache
+c:\users\kappa\documents\visual studio 2012\Projects\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.exe
+c:\users\kappa\documents\visual studio 2012\Projects\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.pdb
+C:\Users\dima2\Desktop\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe.config
+C:\Users\dima2\Desktop\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe
+C:\Users\dima2\Desktop\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.pdb
+C:\Users\dima2\Desktop\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\ZipForge.xml
+C:\Users\dima2\Desktop\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csprojAssemblyReference.cache
+C:\Users\dima2\Desktop\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Form1.resources
+C:\Users\dima2\Desktop\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Properties.Resources.resources
+C:\Users\dima2\Desktop\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csproj.GenerateResource.cache
+C:\Users\dima2\Desktop\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csproj.CoreCompileInputs.cache
+C:\Users\dima2\Desktop\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csproj.CopyComplete
+C:\Users\dima2\Desktop\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.exe
+C:\Users\dima2\Desktop\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.pdb
